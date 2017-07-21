@@ -6,3 +6,4 @@ Git has a mutable index called stage.
 123.
 create a new branch is quick and simple;
 new dev.
+git is a freesoftware.
