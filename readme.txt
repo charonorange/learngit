@@ -6,3 +6,4 @@ Git has a mutable index called stage.
 123.
 create a new branch is quick;
 444
+switched to a new branch "feature1".
